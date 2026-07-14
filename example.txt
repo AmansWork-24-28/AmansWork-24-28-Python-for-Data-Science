@@ -1,0 +1,14 @@
+Hello
+Welcome to Python
+File Handling
+
+This is an additional line.
+This is an additional line.
+This is a new line.
+Python is awesome.
+This is a new line.
+Python is awesome.
+This is a new line.
+Python is awesome.
+This is a new line.
+Python is awesome.
