@@ -1,0 +1,11 @@
+StudentID,Name,Age,Gender,City,Course,Marks,Attendance,Passed
+101,Alice,20,Female,Delhi,Python,85,92,Yes
+102,Bob,21,Male,Mumbai,Java,78,88,Yes
+103,Charlie,22,Male,Bangalore,Python,92,95,Yes
+104,Diana,20,Female,Pune,C++,67,80,Yes
+105,Ethan,23,Male,Hyderabad,Java,55,72,No
+106,Fiona,21,Female,Chennai,Python,89,96,Yes
+107,George,22,Male,Delhi,C++,48,68,No
+108,Hannah,20,Female,Mumbai,Java,74,85,Yes
+109,Ian,23,Male,Pune,Python,61,78,Yes
+110,Julia,21,Female,Bangalore,C++,95,98,Yes
